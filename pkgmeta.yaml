@@ -1,0 +1,6 @@
+package-as: "!!NoTaint2/!!NoTaint2"
+
+ignore:
+  - install.fish
+  - README.md
+  - watch.fish
